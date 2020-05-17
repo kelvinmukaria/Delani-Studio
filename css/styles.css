@@ -6,3 +6,17 @@
     background-size: cover;
     color: white;
 }
+.contents h1{
+    padding: 2px;
+}
+#mouse-click{
+    padding-top : 30px;
+    margin-top: 10%;
+    padding-bottom: 30px; 
+  }
+#about{
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
