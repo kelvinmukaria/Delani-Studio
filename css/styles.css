@@ -56,3 +56,8 @@ h2{
 #product p,h2{
     text-align: center;
 }
+.icon{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
