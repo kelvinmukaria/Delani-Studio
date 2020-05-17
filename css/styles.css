@@ -5,6 +5,8 @@
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
+    font-size: 16px;
+    font-weight: 200;
 }
 .contents h1{
     padding: 2px;
@@ -16,7 +18,25 @@
   }
 #about{
     text-align: center;
-    color: white;
+    color: salmon;
     padding-top: 30px;
     padding-bottom: 30px;
   }
+#about-us{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.services{
+    color: white;
+    text-align: center;
+    background-image: url('../img/assets/backgrounds/s_image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 16px;
+    font-weight: 200;
+}
+#services2{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
