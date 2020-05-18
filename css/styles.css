@@ -40,6 +40,9 @@
     padding-top: 30px;
     padding-bottom: 30px;
 }
+.col-md-4 p{
+    text-align: center;
+}
 h2{
     font-weight: 300;
     font-size: 22px;
@@ -69,4 +72,18 @@ h2{
 }
 .portfolio p{
     text-align: center;
+}
+#contact{
+    background-image: url('../img/assets/backgrounds/c_image.jpg'); 
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 16px;
+    font-weight: 200;
+}
+input[type=text],input[type=email],#comment{
+    background: transparent;
+    font-size: 20px;
+    color: white;
 }
