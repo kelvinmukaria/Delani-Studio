@@ -92,3 +92,8 @@ footer{
     padding-top: 30px;
     padding-bottom: 30px;
 }
+footer p{
+    text-align: center;
+    font-weight: 300;
+    padding-bottom: 20px;
+}
