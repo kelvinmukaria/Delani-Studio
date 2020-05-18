@@ -2,7 +2,7 @@
 
 
 A project to create a fictional studio which will incorporate concepts learnt in Bootstrap and jQuery.
-This week, your task is to implement everything you have learnt from Bootstrap and jQuery to recreate a landing page for a fictional studio as shown below.
+
 
 
 # Description
@@ -22,13 +22,13 @@ This is a website for Delani Studio. The website contains more information on Se
 
  To get a local copy up and running follow these simple steps:
 
-Clone the repo git clone https://github.com/kelvinmukaria/akan.git 
+Clone the repo git clone https://github.com/kelvinmukaria/Delani-Studio.git 
 
 
 Navigate to the parent folder 
 
 
-cd akan-name-generator/ 
+cd Delani-Studio 
 
 
 Open the index.html file in a browser or text editor of your choice.
@@ -42,7 +42,7 @@ Open the index.html file in a browser or text editor of your choice.
  
  # Project Link: 
  
- https://github.com/kelvinmukaria/akan.git
+ https://github.com/kelvinmukaria/Delani-Studio.git
 
  
 # License
