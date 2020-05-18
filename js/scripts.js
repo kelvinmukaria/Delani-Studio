@@ -4,8 +4,8 @@ $(document).ready(function(){
         $('#design').show('1500');
     });
     $('#design').click(function(){
-        $('#design').slideUp('1500');
-        $('#imagedesign').slideDown('1500');
+        $('#design').slideUp('1500').hide('1000');
+        $('#imagedesign').show('1500');
     });
     });
 
@@ -15,8 +15,8 @@ $(document).ready(function(){
         $('#development').show('1500');
     });
     $('#development').click(function(){
-        $('#development').slideUp('1500');
-        $('#imagedevelopment').slideDown('1500');
+        $('#development').slideUp('1500').hide('1000');
+        $('#imagedevelopment').show('1500');
     });
     });
 
@@ -26,8 +26,8 @@ $(document).ready(function(){
         $('#product').show('1500');
     });
     $('#product').click(function(){
-        $('#product').slideUp('1500');
-        $('#imageproduct').slideDown('1500');
+        $('#product').slideUp('1500').hide('1000');
+        $('#imageproduct').show('1500');
     });
     });
 
